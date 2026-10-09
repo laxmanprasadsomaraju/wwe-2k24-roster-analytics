@@ -4,6 +4,8 @@
 
 > **Important:** This is an exploratory analysis of **137 publicly published WWE 2K24 roster entries** across Raw, SmackDown and NXT. These are character ratings, **not** 2K internal gameplay telemetry, actual win rates, player engagement, retention, churn or evidence of gameplay fairness. Not affiliated with or endorsed by WWE or 2K.
 
+![Average rating by roster](figures/average_rating_by_roster.svg)
+
 ## Executive summary
 
 | KPI | Result |
