@@ -1,16 +1,138 @@
-brand,name,overall_rating
-Raw,Roman Reigns,97
-Raw,Cody Rhodes,93
-Raw,Seth Rollins,93
-Raw,Becky Lynch,94
-Raw,Rhea Ripley,96
+brand,superstar,overall_rating
+Raw,Akira Tozawa,68
+Raw,Alexa Bliss,83
+Raw,Apollo crews,71
+Raw,Becky Lynch,92
 Raw,Bianca Belair,95
-SmackDown,Randy Orton,91
-SmackDown,Charlotte Flair,92
-SmackDown,LA Knight,88
+Raw,Big E,78
+Raw,Braun Strowman,82
+Raw,Bronson Reed,84
+Raw,Brutus Creed,78
+Raw,Candice LeRae,67
+Raw,Carmella,74
+Raw,Chad Gable,80
+Raw,Chelsea Green,75
+Raw,Cody Rhodes,93
+Raw,Damian Priest,86
+Raw,Dexter Lumis,66
+Raw,Dominik Mysterio,83
+Raw,Drew McInytre,89
+Raw,Erik,78
+Raw,Finn Balor,87
+Raw,Giovanni Vinci,72
+Raw,Gunther,90
+Raw,Indi Hartwell,63
+Raw,Ivar,79
+Raw,JD McDonagh,71
+Raw,Jey Uso,90
+Raw,Jinder Mahal,74
+Raw,Johnny Gargano,74
+Raw,Julius Creed,79
+Raw,Katana Chance,74
+Raw,Kayden Carter,74
+Raw,Kofi Kingston,80
+Raw,Liv Morgan,85
+Raw,Ludwig Kaiser,73
+Raw,Maxxine Dupri,64
+Raw,Natalya,81
+Raw,Nikkie Cross,62
+Raw,Otis,74
+Raw,Piper Niven,79
+Raw,Raquel Rodriguez,86
+Raw,Rhea Ripley,96
+Raw,Ricochet,81
+Raw,R-Truth,67
+Raw,Sami Zayn,87
+Raw,Seth “Freakin” Rollins,93
+Raw,Shayna Baszler,82
+Raw,Shinsuke Nakamura,84
+Raw,Sonya Deville,74
+Raw,Tegan Nox,77
+Raw,The Miz,81
+Raw,Tommaso Ciampa,76
+Raw,Valhalla,63
+Raw,Veer Mahaan,75
+Raw,Xavier Woods,78
+Raw,Xia Li,73
+Raw,Zoey Stark,78
 SmackDown,AJ Styles,85
+SmackDown,Alba Fyre,74
+SmackDown,Angel Garza,67
+SmackDown,Angelo Dawkins,74
+SmackDown,Ashante “Thee” Adonis,62
+SmackDown,Asuka,90
+SmackDown,Austin Theory,72
 SmackDown,Bayley,85
-NXT,Bron Breakker,80
+SmackDown,Bobby Lashley,89
+SmackDown,Bron Breakker,80
+SmackDown,Butch,75
+SmackDown,Cameron Grimes,73
+SmackDown,Cedric Alexander,69
+SmackDown,Charlotte Flair,92
+SmackDown,Cruz Del Toro,69
+SmackDown,Dakota Kai,78
+SmackDown,Elton Prince,76
+SmackDown,Grayson Waller,74
+SmackDown,Humberto Carrillo,65
+SmackDown,Isla Dawn,74
+SmackDown,IYO SKY,88
+SmackDown,Jimmy Uso,84
+SmackDown,Joaquin Wilde,68
+SmackDown,Karl Anderson,72
+SmackDown,Karrion Kross,75
+SmackDown,Kevin Owens,86
+SmackDown,Kit Wilson,76
+SmackDown,LA Knight,88
+SmackDown,Logan Paul,90
+SmackDown,Luke Gallows,73
+SmackDown,Michin Mia Yim,68
+SmackDown,Montez Ford,76
+SmackDown,MVP,68
+SmackDown,Omos,76
+SmackDown,R-Treuth,67
+SmackDown,Randy Orton,91
+SmackDown,Rey Mysterio,88
+SmackDown,Ridge Holland,76
+SmackDown,Robert Roode,67
+SmackDown,Roman Reigns,97
+SmackDown,Santos Escobar,78
+SmackDown,Scarlett,69
+SmackDown,Sheamus,86
+SmackDown,Shotzi,76
+SmackDown,Solo Sikoa,86
+SmackDown,Tamina,67
+SmackDown,Tiffany Stratton,79
+SmackDown,Tyler Bate,76
+SmackDown,Zelina Vega,74
+NXT,Andre Chase,73
+NXT,Axiom,73
+NXT,Baron Corbin,76
+NXT,Blair Davenport,74
+NXT,Brooks Jensen,67
 NXT,Carmelo Hayes,81
-NXT,Tiffany Stratton,79
+NXT,Channing “Stacks” Lorenzo,69
+NXT,Cora Jade,74
+NXT,Damon Kemp,68
+NXT,Dijak,77
+NXT,Drew Gulak,70
+NXT,Duke Hudson,71
+NXT,Fallon Henley,66
+NXT,Gigi Dolin,74
+NXT,Ilja Dragunov,81
+NXT,Jacy Jayne,73
+NXT,Jinder Mahal,74
+NXT,Joe Coffey,76
+NXT,Joe Gacy,73
+NXT,Josh Briggs,69
+NXT,Mark Coffey,74
+NXT,Nathan Frazer,75
+NXT,Nikkita Lyons,73
+NXT,Noam Dar,76
 NXT,Roxanne Perez,78
+NXT,SCRYPTS,61
+NXT,Thea Hail,72
+NXT,Tony D’Angelo,75
+NXT,Trick Williams,78
+NXT,Wendy Choo,72
+NXT,Wes Lee,76
+NXT,Wolfgang,73
